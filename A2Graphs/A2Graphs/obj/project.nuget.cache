@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TsYidc6HdBw=",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\3-Term-RapidApplication\\A2Graphs\\A2Graphs\\A2Graphs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sandr\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
